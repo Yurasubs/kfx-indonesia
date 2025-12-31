@@ -1,0 +1,13 @@
+*.bc
+*.lo
+*.la
+*.o
+*.pyc
+*.tgz
+venv/
+node_modules/
+build/lib
+src/JASSUBInterface.cpp
+src/JASSUBInterface.js
+lib/
+dist/
