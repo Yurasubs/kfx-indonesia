@@ -1,4 +1,4 @@
-const renderer = new JASSUB({
+const renderer = new SubtitlesOctopus({
     video: document.querySelector('video'),
     renderMode: 'lossy',
     subUrl: '../subtitles/makeineed.ass',

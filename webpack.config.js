@@ -1,7 +1,7 @@
 module.exports = {
   entry: {
-    jassub: './node_modules/jassub/dist/jassub.js',
-    worker: './node_modules/jassub/dist/wasm/jassub-worker.js'
+    jassub: './jassub/assets/jassub.js',
+    worker: './jassub/assets/jassub-worker.js'
   },
   output: {
     library: {
