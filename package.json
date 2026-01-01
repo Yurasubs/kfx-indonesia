@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "jassub": "^2.0.10",
     "rvfc-polyfill": "^1.0.6"
   },
   "scripts": {

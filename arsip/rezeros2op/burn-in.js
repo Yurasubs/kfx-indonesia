@@ -1,4 +1,4 @@
-const renderer = new SubtitlesOctopus({
+const renderer = new JASSUB({
   video: document.querySelector('video'),
   renderMode: 'lossy',
   subUrl: '../subtitles/rezeropart2.ass',
